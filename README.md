@@ -9,6 +9,12 @@ is illegal and unethical. Always ensure you have proper authorization and use su
 Usage:
 
 1° Clone the repository: git clone https://github.com/skelegamerYT11/StealthShell-Win11-AV-Bypass-Digispark.git
+
+
 2° Change the IP and PORT
+
+
 3° Upload the script to the DigiSpark microcontroller.
+
+
 4° Deploy the DigiSpark on a Windows 11 machine for testing.
